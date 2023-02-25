@@ -20,10 +20,7 @@ Survey of Innovative Applications : 2022 Taiwan Innotech Expo, DIY projects, AIO
 8. Innovative Sensories.
 
 ---
-## [2022 Taiwan Innotech Expo](https://cloudcdn.taiwantradeshows.com.tw/2022/inst/showarea/index.html)
-
-### [AIoT智慧應用](<iframe width="1239" height="697" src="https://www.youtube.com/embed/N81wcMWzs1A" title="NBA的黑耶穌，究竟是什麼時候，全世界承認了Michael Jordan籃球上帝的地位？原來早在這一場比賽結束，全世界都被他打服了！" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)
-
-![](https://raw.githubusercontent.com/HsuanChenLiao/MCU-project/5ebbb6d464f2aca3f6f7f548503a6b51dd6b1e18/images/pop-smoke-shoot-for-the-stars-aim-for-the-moon-grungecake-thumbnail.jpg)
-
-
+## 影片連結
+<iframe width="1254" height="705" src="https://www.youtube.com/embed/pJ4rZxGb8AU" title="［駕直觀］M for me？BMW M340i Touring，陪你解身體的渴！｜狂人日誌" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## 圖片 Album cover Aim For The Moon
+！[image](https://raw.githubusercontent.com/HsuanChenLiao/MCU-project/07ec25b924dae8aed23fad6b0d3a082c1ecce046/images/Pop-Smoke-deluxe-1595251554-1000x1000.jpg)
