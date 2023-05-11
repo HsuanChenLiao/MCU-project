@@ -5,6 +5,7 @@ author: [HsuanChen Liao]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
+
 ```
 //
 // ESP32 Webserver to receive data from Webclients
@@ -204,4 +205,5 @@ void loop() {
   server.handleClient();
 }
 ```
+
 ![]([https://s4.aconvert.com/convert/p3r68-cdx67/awbxy-zp0zp.png](https://drive.google.com/file/d/1tb2SxFqXHACfNjhgjFEToPpJaTFSBoDg/view?usp=share_link)
